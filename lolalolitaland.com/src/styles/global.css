@@ -16,3 +16,7 @@
     --color-theme-green: #2B8364;
     --color-theme-green-light: #98D354;
 }
+
+body {
+    font-family: 'Poppins', sans-serif;
+  }
